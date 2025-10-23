@@ -1,0 +1,4 @@
+name: JudgmentZoo
+version: '${project.version}'
+main: com.plugin.JudgmentZoo
+api-version: 1.21
